@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaboratorioRecuperacionCalificado02</string>
+    <string name="tittle">Examen Calificado 02 Recuperación</string>
+    <string name="Tittle">Examen Calificado 02 Recuperación</string>
+    <string name="nombre_cliente">Nombre Cliente</string>
+    <string name="n_mero_cliente">Número Cliente</string>
+    <string name="producto">Producto</string>
+    <string name="ubicaci_n">Ubicación</string>
+    <string name="contacto_guardado">Contacto Guardado</string>
+</resources>
